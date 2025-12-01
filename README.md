@@ -1,4 +1,4 @@
-# Ramadan 2020 assessments
+# Ramadan 2026 assessments
 
 > Hi all, this is the repo that holds the assessments that covers ramadan 2020 series on [Semicolon academy](https://www.youtube.com/SemicolonAcademy) youtube channel, no implementations here, only the assessments, you could check later the resolutions on different repos on github as well, or watch the series and build it up together.
 
